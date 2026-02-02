@@ -1,0 +1,5 @@
+1. Student scores show a fairly normal distribution, with a few extreme low and high values detected as outliers.
+
+2. Reading and writing scores have a strong positive correlation, indicating that students who perform well in one tend to perform well in the other.
+
+3. After removing outliers, the dataset became more stable for further analysis and modeling.
